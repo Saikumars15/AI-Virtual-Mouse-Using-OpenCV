@@ -1,0 +1,4 @@
+pip install OpenCV
+pip install mediapipe
+pip install autopy
+pip install numpy
